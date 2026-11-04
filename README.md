@@ -1,8 +1,15 @@
 <div align="center">
 
-# ¡Hola! Soy Camila Leal Ledesma 👋
+<h1>¡Hola! Soy Camila Leal Ledesma 👋</h1>
 
-### 📊 Data Analyst | Business Analytics | Business Intelligence
+<h3>📊 Data Analyst | Business Analytics | Business Intelligence</h3>
+
+<a href="https://www.linkedin.com/in/camila-leal-ledesma/">
+  <img src="https://img.shields.io/badge/LinkedIn-Camila_Leal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:camilaalleledesma@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
