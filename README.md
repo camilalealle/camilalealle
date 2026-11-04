@@ -45,31 +45,13 @@ Como cofundadora de una empresa de comercio electrónico, desarrollé experienci
 
 ---
 
-### 📂 Proyectos destacados
+### 📂 Featured Projects
 
-#### 🛒 RappiPlus | Análisis empresarial de comercio electrónico
-
-**Python · SQL · Análisis estadístico · Business Intelligence**
-
-Análisis integral del desempeño comercial, rentabilidad estimada, comportamiento de clientes, eficiencia de marketing y experimentación A/B.
-
-**Hallazgo destacado:** identificación de un producto con rentabilidad bruta estimada negativa y evaluación estadística de un experimento A/B cuyos resultados no mostraron una mejora significativa.
-
-*Dashboard interactivo y documentación técnica en desarrollo.*
-
-#### 📈 MercadoLibre | Análisis de embudos de conversión y cohortes
-
-**SQL · Análisis de conversión · Retención de usuarios**
-
-Análisis del comportamiento de los usuarios a través del embudo de conversión y evaluación de patrones de retención mediante cohortes.
-
-**Hallazgo destacado:** identificación de una caída importante entre la selección de productos y su incorporación al carrito de compras.
-
-#### 💰 AdventureWorks | Análisis del desempeño financiero
-
-**SQL · Análisis financiero · Indicadores de negocio**
-
-Análisis de rentabilidad y retorno de inversión (ROI) en diferentes mercados para identificar diferencias en el desempeño financiero.
+| Project | What it proves |
+|---|---|
+| 🛒 **RappiPlus — E-commerce Business Analytics** | End-to-end analysis using Python and SQL. Identified a product with an estimated gross margin of **−8.63%** and evaluated an A/B experiment with no statistically significant improvement (**p = 0.4161**). |
+| 📈 **MercadoLibre — Funnel & Retention** | SQL-based customer journey analysis, identifying a **65.9 percentage-point difference** between product-selection and add-to-cart conversion rates. |
+| 💰 **AdventureWorks — Financial Analytics** | SQL-based profitability analysis identifying differences in ROI between the US (**75.75%**) and UK (**22.05%**). |
 
 ---
 
