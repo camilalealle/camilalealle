@@ -33,7 +33,6 @@ Como cofundadora de una empresa de comercio electrónico, desarrollé experienci
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square\&logo=googleanalytics\&logoColor=white)
 
 **Data & Development Tools**
 
