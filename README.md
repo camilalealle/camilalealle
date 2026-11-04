@@ -4,8 +4,6 @@
 
 ### 📊 Data Analyst | Business Analytics | Business Intelligence
 
-Ingeniera de Producción y analista de datos, especializada en transformar información en conocimiento útil para la toma de decisiones empresariales.
-
 </div>
 
 ---
