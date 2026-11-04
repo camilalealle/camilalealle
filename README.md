@@ -14,7 +14,7 @@ Soy Ingeniera de Producción y analista de datos con experiencia en **operacione
 
 Combino mi experiencia empresarial con conocimientos técnicos en **SQL, Python, Power BI y Tableau** para analizar datos, identificar oportunidades de mejora y generar recomendaciones que respalden la toma de decisiones.
 
-Como cofundadora de una empresa de comercio electrónico, desarrollé experiencia en **análisis de marketing, embudos de conversión y rentabilidad**, utilizando indicadores de negocio para evaluar resultados y orientar decisiones comerciales.
+Como cofundadora de una empresa especializada en comercio electrónico, desarrollé experiencia en **análisis de marketing, embudos de conversión y rentabilidad**, utilizando indicadores de negocio para evaluar resultados y orientar decisiones comerciales.
 
 ---
 
