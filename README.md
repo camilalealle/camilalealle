@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>¡Hola! Soy Camila Leal Ledesma 👋</h1>
+<h1>Hi, I'm Camila Leal Ledesma 👋</h1>
 
 <h3>📊 Data Analyst | Business Analytics | Business Intelligence</h3>
 
@@ -8,20 +8,20 @@
   <img src="https://img.shields.io/badge/LinkedIn-Camila_Leal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:camilaalleledesma@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
 
 ---
 
-### 👩‍💻 Sobre mí
+### 👩‍💻 About Me
 
-Soy Ingeniera de Producción y analista de datos con experiencia en **operaciones empresariales, comercio electrónico y análisis de indicadores de desempeño**.
+I'm a Production Engineer and Data Analyst with experience in **business operations, e-commerce, and performance analysis**.
 
-Combino mi experiencia empresarial con conocimientos técnicos en **SQL, Python, Power BI y Tableau** para analizar datos, identificar oportunidades de mejora y generar recomendaciones que respalden la toma de decisiones.
+I combine my business experience with technical skills in **SQL, Python, Power BI, and Tableau** to analyze data, identify opportunities for improvement, and provide recommendations that support business decisions.
 
-Como cofundadora de una empresa especializada en comercio electrónico, desarrollé experiencia en **análisis de marketing, embudos de conversión y rentabilidad**, utilizando indicadores de negocio para evaluar resultados y orientar decisiones comerciales.
+As a co-founder of an e-commerce company, I gained experience in **marketing analytics, conversion funnels, and profitability analysis**, using business metrics to evaluate performance and guide commercial decisions.
 
 ---
 
@@ -41,22 +41,22 @@ Como cofundadora de una empresa especializada en comercio electrónico, desarrol
 
 **Data & Development Tools**
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square\&logo=googlesheets\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | What it proves |
-|---|---|
-| 🛒 **RappiPlus — E-commerce Business Analytics** | End-to-end analysis using Python and SQL. Identified a product with an estimated gross margin of **−8.63%** and evaluated an A/B experiment with no statistically significant improvement (**p = 0.4161**). |
-| 📈 **MercadoLibre — Funnel & Retention** | SQL-based customer journey analysis, identifying a **65.9 percentage-point difference** between product-selection and add-to-cart conversion rates. |
-| 💰 **AdventureWorks — Financial Analytics** | SQL-based profitability analysis identifying differences in ROI between the US (**75.75%**) and UK (**22.05%**). |
+| Project                                          | Key Finding                                                                                                                                                                                           |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛒 **RappiPlus — E-commerce Business Analytics** | Analyzed business performance using Python and SQL. Identified a product with an estimated gross margin of **−8.63%** and an A/B test with no statistically significant improvement (**p = 0.4161**). |
+| 📈 **MercadoLibre — Funnel & Retention**         | Used SQL to analyze the customer journey and identified a **65.9 percentage-point difference** between product selection and add-to-cart conversion rates.                                            |
+| 💰 **AdventureWorks — Financial Analytics**      | Analyzed profitability using SQL and identified differences in ROI between the US (**75.75%**) and the UK (**22.05%**).                                                                               |
 
 ---
 
@@ -64,8 +64,6 @@ Como cofundadora de una empresa especializada en comercio electrónico, desarrol
 
 I'm open to **Data Analyst and Business Intelligence Analyst opportunities**, including remote roles with international teams.
 
-- 📧 **Email:** [camilaalleledesma@gmail.com](mailto:camilaalleledesma@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/camila-leal-ledesma](https://www.linkedin.com/in/camila-leal-ledesma/)
 
 
 
