@@ -54,7 +54,7 @@ As a co-founder of an e-commerce company, I gained experience in **marketing ana
 
 | Project                                          | Key Finding                                                                                                                                                                                           |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🛒 **RappiPlus — E-commerce Business Analytics** | Analyzed business performance using Python and SQL. Identified a product with an estimated gross margin of **−8.63%** and an A/B test with no statistically significant improvement (**p = 0.4161**). |
+| 🛒 **🚀 [RappiPlus — E-commerce Business Analytics](https://github.com/camilalealle/rappiplus-business-analysis)** | Analyzed business performance using Python and SQL. Identified a product with an estimated gross margin of **−8.63%** and an A/B test with no statistically significant improvement (**p = 0.4161**). |
 | 📈 **MercadoLibre — Funnel & Retention**         | Used SQL to analyze the customer journey and identified a **65.9 percentage-point difference** between product selection and add-to-cart conversion rates.                                            |
 | 💰 **AdventureWorks — Financial Analytics**      | Analyzed profitability using SQL and identified differences in ROI between the US (**75.75%**) and the UK (**22.05%**).                                                                               |
 
