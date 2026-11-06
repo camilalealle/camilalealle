@@ -17,11 +17,11 @@
 
 ### 👩‍💻 About Me
 
-I'm a Production Engineer and Data Analyst with experience in **business operations, e-commerce, and performance analysis**.
+I'm a Production Engineer and Data Analyst with experience in business operations, e-commerce, and performance analysis.
 
-I combine my business experience with technical skills in **SQL, Python, Power BI, and Tableau** to analyze data, identify opportunities for improvement, and provide recommendations that support business decisions.
+I combine my business experience with technical skills in SQL, Python, Power BI, and Tableau to analyze data, identify opportunities for improvement, and provide recommendations that support business decisions.
 
-As a co-founder of an e-commerce company, I gained experience in **marketing analytics, conversion funnels, and profitability analysis**, using business metrics to evaluate performance and guide commercial decisions.
+As a co-founder of an e-commerce company, I gained experience in marketing analytics, conversion funnels, and profitability analysis, using business metrics to evaluate performance and guide commercial decisions.
 
 ---
 
