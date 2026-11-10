@@ -12,7 +12,7 @@
 </a>
 
 </div>
-
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile+views&color=blue&style=flat)
 ---
 
 ### 👩‍💻 About Me
