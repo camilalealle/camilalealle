@@ -11,8 +11,9 @@
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</div>
-![Profile Views](https://komarev.com/ghpvc/?username=camilalealle&label=Profile+views&color=blue&style=flat)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=camilalealle&label=Profile+views&color=lightgrey&style=flat-square" alt="Profile views" />
+</p>
 ---
 
 ### 👩‍💻 About Me
