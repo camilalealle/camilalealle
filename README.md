@@ -1,93 +1,106 @@
 <div align="center">
 
-# Camila Leal Ledesma
+# Hi, I'm Camila Leal 👋
 
 ### Business & Data Analyst | SQL · Python · Power BI
 
-**Turning business questions into actionable insights.**
+### Helping 🤝 businesses make data-driven decisions 🎯
 
 Production Engineer with experience in e-commerce, marketing analytics, and business performance.
 
-I combine business knowledge with data analytics to uncover opportunities, improve performance, and support data-driven decisions.
+I combine business knowledge with analytical skills to uncover insights, identify opportunities, and support strategic decisions.
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-leal-ledesma)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilalealle?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/GitHub-My_Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilalealle?tab=repositories)
 
 </div>
 
 ---
 
+## About Me
+
+I bring together hands-on business experience and data analytics to solve real-world problems.
+
+My background includes analyzing marketing performance, conversion funnels, customer behavior, and profitability.
+
+Currently focused on **Data Analytics, Business Intelligence, and Business Analytics**, transforming complex data into clear, actionable recommendations.
+
+---
+
+## Tech Stack
+
+**Data Analysis & Programming**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Business Intelligence & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Analytical Skills**
+
+`EDA` · `A/B Testing` · `Statistical Analysis` · `Funnel Analysis` · `Cohort Analysis` · `Customer Retention` · `Business KPIs`
+
+---
+
 ## Featured Projects
 
-### 01 · RappiPlus | E-commerce Analytics
+Selected projects demonstrating technical skills, analytical thinking, and business impact.
 
-**Profitability · Customer Retention · A/B Testing**
+### Business Performance & Profitability
 
-Analyzed e-commerce performance to identify profitability issues, customer behavior patterns, and business improvement opportunities.
+| Project | Key Findings | What It Demonstrates |
+|:---|:---|:---|
+| [**RappiPlus: E-commerce Analytics**](https://github.com/camilalealle/rappiplus-business-analysis) | 29.88% profit margin. Identified a product with −8.63% gross margin and evaluated an A/B test (p = 0.4161). | Python, profitability analysis, customer retention, A/B testing, Power BI. |
+| **AdventureWorks: Sales Analytics** | Compared market profitability: US ROI 75.75% vs. UK ROI 22.05%. | SQL, financial analysis, ROI, business performance. |
 
-**Key Findings**
-- **29.88%** profit margin.
-- Identified a product with a **−8.63% gross margin**.
-- **85.1%** repeat purchase rate.
-- A/B test showed no statistically significant improvement (p = 0.4161).
+### Customer Behavior & Conversion Analytics
 
-**Tools:** Python · Pandas · Power BI · DAX
+| Project | Key Findings | What It Demonstrates |
+|:---|:---|:---|
+| [**Mercado Libre: Funnel & Retention Analysis**](https://github.com/camilalealle/mercadolibre-funnel-retention-analysis) | Identified a major conversion bottleneck between product selection and cart addition. Analyzed country-level conversion and customer retention. | SQL, conversion funnels, cohort analysis, customer behavior. |
 
-[![View Project](https://img.shields.io/badge/View_Project-GitHub-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/camilalealle/rappiplus-business-analysis)
+<br>
 
----
+<div align="center">
 
-### 02 · MercadoLibre | Funnel & Retention Analytics
+[![Live Dashboard](https://img.shields.io/badge/Explore_Mercado_Libre_Dashboard-00897B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://camilalealle.github.io/mercadolibre-funnel-retention-analysis/dashboard/mercadolibre_dashboard_ejecutivo.html)
 
-**Conversion Funnels · User Behavior · SQL**
-
-Analyzed user journeys to identify conversion bottlenecks and opportunities to improve the purchase experience.
-
-**Key Findings**
-- Identified an **87.69% drop-off** between product selection and cart addition in the sequential funnel.
-- Analyzed conversion performance across countries.
-- Explored customer retention through cohort analysis.
-
-**Tools:** SQL · Funnel Analysis · Cohort Analysis
-
-[![View Project](https://img.shields.io/badge/View_Project-GitHub-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/camilalealle/mercadolibre-funnel-retention-analysis)
-[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Explore-00897B?style=flat-square&logo=googlechrome&logoColor=white)](https://camilalealle.github.io/mercadolibre-funnel-retention-analysis/dashboard/mercadolibre_dashboard_ejecutivo.html)
-
----
-
-## Skills & Tools
-
-| Area | Technologies & Skills |
-|:---|:---|
-| **Data Analysis** | SQL · Python · Pandas · NumPy · Excel |
-| **Business Intelligence** | Power BI · DAX · Tableau · Looker Studio |
-| **Analytics** | EDA · Statistical Testing · A/B Testing |
-| **Business Analytics** | Funnel Analysis · Cohort Retention · Profitability · Marketing KPIs |
+</div>
 
 ---
 
 ## Professional Background
 
 **E-commerce & Marketing Analytics**
-- Experience analyzing advertising performance, conversion funnels, acquisition costs, and profitability.
-- Business-oriented approach to identifying opportunities and supporting strategic decisions.
+
+Experience analyzing digital advertising campaigns, customer acquisition, conversion funnels, and profitability to support business decisions.
 
 **Data Analytics Mentor | TripleTen**
-- Supporting students with analytical concepts, technical tools, and data projects.
+
+Supporting aspiring data analysts with technical concepts, analytical methods, and practical projects.
 
 ---
 
+## Let's Connect
+
+I'm interested in opportunities in **Data Analytics, Business Intelligence, and Business Analytics**, where I can combine analytical skills with business experience.
+
 <div align="center">
 
-### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila_Leal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-leal-ledesma)
-[![Repositories](https://img.shields.io/badge/GitHub-All_Projects-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/camilalealle?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-leal-ledesma)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilalealle?tab=repositories)
 
 <br>
 
-*Transforming data into insights that drive better business decisions.*
+**Helping businesses turn data into better decisions.**
 
 </div>
