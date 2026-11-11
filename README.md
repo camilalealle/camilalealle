@@ -74,7 +74,7 @@ My approach: **understand the business problem, validate the data, uncover meani
 
 | Project | What it proves | Dashboard |
 |:---|:---|:---:|
-| [**RappiPlus: E-commerce Performance & Profitability**](https://github.com/camilalealle/rappiplus-business-analysis) | Analyzed revenue, profitability, and customer retention. Identified a **29.88% profit margin**, a product with **−8.63% gross margin**, and an A/B test without statistically significant improvement (**p = 0.4161**). | [View Project](https://github.com/camilalealle/rappiplus-business-analysis) |
+| [**RappiPlus: E-commerce Performance & Profitability**](https://github.com/camilalealle/rappiplus-business-analysis) | Analyzed revenue, profitability, and customer retention. Identified a **29.88% profit margin**, a product with **−8.63% gross margin**, and an A/B test without statistically significant improvement (**p = 0.4161**). | [Dashboard](dashboard/RappiPlus%20Dashboard.pdf) |
 | **AdventureWorks: Sales & Financial Analysis** | Compared international market performance, identifying **75.75% ROI in the US** versus **22.05% in the UK**, demonstrating SQL-based financial and profitability analysis. | — |
 
 ### 📈 Customer Behavior & Conversion Analytics
