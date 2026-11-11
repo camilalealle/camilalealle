@@ -65,6 +65,9 @@ My approach: **understand the business problem, validate the data, uncover meani
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logoColor=white)
 
+**Statistics & Analytical Methods**
+
+`Descriptive Statistics` · `Statistical Inference` · `Hypothesis Testing` · `A/B Testing` · `Correlation Analysis` · `Data Cleaning & Validation` · `Exploratory Data Analysis`
 ---
 
 ## 📁 Featured Projects
