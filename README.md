@@ -7,7 +7,6 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila_Leal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-camilalealle-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/camilalealle)
 
-### Helping 🤝 businesses make data-driven decisions 🎯
 
 </div>
 
@@ -15,7 +14,7 @@
 
 ## 🎯 About Me
 
-I'm a Production Engineer and Data Analyst with hands-on experience in e-commerce, marketing analytics, and business performance.
+I'm a Production Engineer and Data Analyst with experience in e-commerce, marketing analytics, and business performance.
 
 My background combines business experience with SQL, Python, and Business Intelligence tools to analyze customer behavior, conversion funnels, profitability, and growth opportunities.
 
