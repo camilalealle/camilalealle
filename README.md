@@ -106,7 +106,7 @@ Supporting aspiring data analysts with SQL, Python, analytical concepts, and pra
 
 ## 📬 Let's Connect
 
-I'm interested in **Data Analyst, Business Analyst, and Business Intelligence Analyst** opportunities, including remote and international teams.
+I'm interested in **Data Analyst, Business Analyst, and Business Intelligence Analyst** opportunities.
 
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/camila-leal-ledesma)
 - 💻 **GitHub:** [Explore my projects](https://github.com/camilalealle)
