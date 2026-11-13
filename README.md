@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Camila Leal Ledesma 👋
+<h1>Hi, I'm Camila Leal Ledesma 👋</h1>
 
-### 📊 Data Analytics | Business Intelligence | Business Analytics
+<h3>📊 Data Analytics | Business Intelligence | Business Analytics</h3>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila_Leal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-camilalealle-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/camilalealle)
-
+<a href="https://www.linkedin.com/in/camila-leal-ledesma/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
 
@@ -16,9 +16,9 @@
 
 I'm a Production Engineer and Data Analyst with experience in e-commerce, marketing analytics, and business performance.
 
-My background combines business experience with SQL, Python, and Business Intelligence tools to analyze customer behavior, conversion funnels, profitability, and growth opportunities.
+My background combines business experience with **SQL, Python, Power BI, and data visualization** to analyze customer behavior, conversion funnels, profitability, and growth opportunities.
 
-I've worked with marketing KPIs, advertising performance, and business optimization, and I'm currently focused on Data Analyst, Business Analyst, and BI Analyst opportunities.
+Through my professional experience and analytical projects, I've worked with business KPIs, data validation, customer segmentation, financial performance, and interactive dashboards to support data-driven decisions.
 
 I also serve as a **Data Analytics Mentor at TripleTen**, supporting students with technical concepts, analytical methods, and practical projects.
 
@@ -69,18 +69,19 @@ My approach: **understand the business problem, validate the data, uncover meani
 
 ## 📁 Featured Projects
 
-### 📊 Business Intelligence & Profitability
+### 📊 Business Intelligence & Commercial Analytics
 
 | Project | What it proves | Dashboard |
 |:---|:---|:---:|
+| [**Andes Capital: Real Estate Business Intelligence**](https://github.com/camilalealle/andes-capital-business-intelligence) | Built a Power BI sales performance dashboard using a star schema and DAX. Analyzed **8,500 transactions**, identifying **11.14% YoY sales growth** driven primarily by transaction volume. | [📊 Dashboard](https://github.com/camilalealle/andes-capital-business-intelligence/blob/main/powerbi/Andes_Capital_Business_Intelligence.pdf) |
+| [**Andes Retail: Sales Performance Analysis**](https://github.com/camilalealle/andes-retail-sales-performance) | Analyzed commercial performance across three countries, identifying a **6.8% revenue decline** and distinguishing between the largest percentage drops and absolute revenue losses. | [📊 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTNjOGExNTktZGU0Ni00YWUwLTg2ODctYTZjZDc5YjcxNmFkIiwidCI6ImI3NzI2MWNlLTJiZGYtNDk5ZC05ZTQ4LWYyNTAyM2NiZjlmZiIsImMiOjR9) |
 | [**RappiPlus: E-commerce Performance & Profitability**](https://github.com/camilalealle/rappiplus-business-analysis) | Analyzed revenue, profitability, and customer retention. Identified a **29.88% profit margin**, a product with **−8.63% gross margin**, and an A/B test without statistically significant improvement (**p = 0.4161**). | [📊 Dashboard](https://github.com/camilalealle/rappiplus-business-analysis/blob/main/dashboard/RappiPlus%20Dashboard.pdf) |
-| **AdventureWorks: Sales & Financial Analysis** | Compared international market performance, identifying **75.75% ROI in the US** versus **22.05% in the UK**, demonstrating SQL-based financial and profitability analysis. | — |
 
 ### 📈 Customer Behavior & Conversion Analytics
 
 | Project | What it proves | Dashboard |
 |:---|:---|:---:|
-| [**Mercado Libre: Conversion Funnel & Retention Analysis**](https://github.com/camilalealle/mercadolibre-funnel-retention-analysis) | SQL-based analysis of the customer journey, identifying conversion bottlenecks, comparing country-level performance, and examining customer retention through cohorts. | [📊 Live Dashboard](https://camilalealle.github.io/mercadolibre-funnel-retention-analysis/dashboard/mercadolibre_dashboard_ejecutivo.html) |
+| [**MercadoLibre: Conversion Funnel & Retention Analysis**](https://github.com/camilalealle/mercadolibre-funnel-retention-analysis) | Used SQL and Python to analyze conversion funnels, identify purchase bottlenecks, and evaluate customer activity through cohort retention analysis. | [📊 Live Dashboard](https://camilalealle.github.io/mercadolibre-funnel-retention-analysis/dashboard/mercadolibre_dashboard_ejecutivo.html) |
 
 ---
 
@@ -107,13 +108,5 @@ Supporting aspiring data analysts with SQL, Python, analytical concepts, and pra
 
 I'm interested in **Data Analyst, Business Analyst, and Business Intelligence Analyst** opportunities.
 
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/camila-leal-ledesma)
-- 💻 **GitHub:** [Explore my projects](https://github.com/camilalealle)
-
----
-
-<div align="center">
-
-*Helping businesses turn data into meaningful insights and better decisions.*
-
-</div>
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/camila-leal-ledesma/)
+- ✉️ **Email:** camilalealledesma@gmail.com
