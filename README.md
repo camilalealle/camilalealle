@@ -60,11 +60,6 @@ My approach: **understand the business problem, validate the data, uncover meani
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
-**AI Tools**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logoColor=white)
-
 ---
 
 ## 📁 Featured Projects
