@@ -73,9 +73,10 @@ My approach: **understand the business problem, validate the data, uncover meani
 
 | Project | What it proves | Dashboard |
 |:---|:---|:---:|
+| [**RappiPlus: E-commerce Performance & Profitability**](https://github.com/camilalealle/rappiplus-business-analysis) | Analyzed revenue, profitability, and customer retention. Identified a **29.88% profit margin**, a product with **−8.63% gross margin**, and an A/B test without statistically significant improvement (**p = 0.4161**). | [📊 Dashboard](https://github.com/camilalealle/rappiplus-business-analysis/blob/main/dashboard/RappiPlus%20Dashboard.pdf) |
 | [**Andes Capital: Real Estate Business Intelligence**](https://github.com/camilalealle/andes-capital-business-intelligence) | Built a Power BI sales performance dashboard using a star schema and DAX. Analyzed **8,500 transactions**, identifying **11.14% YoY sales growth** driven primarily by transaction volume. | [📊 Dashboard](https://github.com/camilalealle/andes-capital-business-intelligence/blob/main/powerbi/Andes_Capital_Business_Intelligence.pdf) |
 | [**Andes Retail: Sales Performance Analysis**](https://github.com/camilalealle/andes-retail-sales-performance) | Analyzed commercial performance across three countries, identifying a **6.8% revenue decline** and distinguishing between the largest percentage drops and absolute revenue losses. | [📊 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTNjOGExNTktZGU0Ni00YWUwLTg2ODctYTZjZDc5YjcxNmFkIiwidCI6ImI3NzI2MWNlLTJiZGYtNDk5ZC05ZTQ4LWYyNTAyM2NiZjlmZiIsImMiOjR9) |
-| [**RappiPlus: E-commerce Performance & Profitability**](https://github.com/camilalealle/rappiplus-business-analysis) | Analyzed revenue, profitability, and customer retention. Identified a **29.88% profit margin**, a product with **−8.63% gross margin**, and an A/B test without statistically significant improvement (**p = 0.4161**). | [📊 Dashboard](https://github.com/camilalealle/rappiplus-business-analysis/blob/main/dashboard/RappiPlus%20Dashboard.pdf) |
+
 
 ### 📈 Customer Behavior & Conversion Analytics
 
