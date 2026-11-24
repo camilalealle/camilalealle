@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+<br><br>
+
+[🇪🇸 Leer en español](README.es.md)
+
 </div>
 
 ---
@@ -23,6 +27,15 @@ Through my professional experience and analytical projects, I've worked with bus
 I also serve as a **Data Analytics Mentor at TripleTen**, supporting students with technical concepts, analytical methods, and practical projects.
 
 My approach: **understand the business problem, validate the data, uncover meaningful insights, and recommend actionable solutions.**
+
+---
+
+## 🤝 How I Work
+
+- **Business-first thinking** — Co-founding and running an e-commerce business taught me to start from the decision that needs to be made, not from the data.
+- **Clear communication** — As a Data Analytics Mentor at TripleTen, I explain SQL, Python, and analytical methods to people with different backgrounds and levels.
+- **Systems thinking** — My Production Engineering background shapes how I analyze processes, bottlenecks, and end-to-end flows, from funnels to supply chains.
+- **Fast learner** — I take on new tools when the problem calls for it, like building an AI-assisted Tableau Data App and deploying it as a standalone web app.
 
 ---
 
@@ -72,7 +85,6 @@ My approach: **understand the business problem, validate the data, uncover meani
 | [**Andes Capital: Real Estate Business Intelligence**](https://github.com/camilalealle/andes-capital-business-intelligence) | Built a Power BI sales performance dashboard using a star schema and DAX. Analyzed **8,500 transactions**, identifying **11.14% YoY sales growth** driven primarily by transaction volume. | [📊 Dashboard](https://github.com/camilalealle/andes-capital-business-intelligence/blob/main/powerbi/Andes_Capital_Business_Intelligence.pdf) |
 | [**Andes Retail: Sales Performance Analysis**](https://github.com/camilalealle/andes-retail-sales-performance) | Analyzed commercial performance across three countries, identifying a **6.8% revenue decline** and distinguishing between the largest percentage drops and absolute revenue losses. | [📊 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTNjOGExNTktZGU0Ni00YWUwLTg2ODctYTZjZDc5YjcxNmFkIiwidCI6ImI3NzI2MWNlLTJiZGYtNDk5ZC05ZTQ4LWYyNTAyM2NiZjlmZiIsImMiOjR9) |
 | [**Walmart Sales Intelligence: AI-Powered Retail Analytics**](https://github.com/camilalealle/walmart-ai-sales-intelligence) | Prepared and validated **28,845 sales records** using Python and Pandas. Analyzed **$558.4M in sales across 45 stores**, identifying **38% higher sales per sq ft in Type B stores compared with Type A**. Built an AI-assisted Tableau Data App and deployed a standalone interactive web version. | [🚀 Live Dashboard](https://camilalealle.github.io/walmart-ai-sales-intelligence/) |
-
 
 ### 📈 Customer Behavior & Conversion Analytics
 
